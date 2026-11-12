@@ -1,0 +1,6 @@
+{
+  "name": "MyPocket Diary",
+  "description": "Personal notepad and expense tracker with ৳ Bangladeshi Taka, Gemini audio transcription, multi-turn AI assistant, and persistent storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
